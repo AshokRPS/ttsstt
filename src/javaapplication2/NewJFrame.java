@@ -304,3 +304,5 @@ listStr+=" "+element.getNodeName();
     private javax.swing.JTextPane jTextPane1;
     // End of variables declaration//GEN-END:variables
 }
+
+//here is my changes
